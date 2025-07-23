@@ -1,3 +1,4 @@
+//wap to print the result of two dividng num//
 using System;
 
 namespace CSharpAssignment

@@ -1,3 +1,4 @@
+//wap to print the output of the multiplication of three number entered by the user//
 using System;
 
 namespace CSharpAssignment
